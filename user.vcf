@@ -3,11 +3,11 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:jaraho جراحو;essam عصام;;;
 FN: essam jaraho عصام جراحو 
-ORG:eesamy عصامي -;
+ORG:eesamy عصامي ;
 TITLE:project manager مدير مشروع
 EMAIL;type=INTERNET;type=WORK;type=pref:eesamy@gmail.com
 TEL;type=WORK;type=VOICE:+966582620150
-item1.ADR;type=WORK;type=pref:;;Saudi Arabia Riyadh -;;; السعودية الرياض
+item1.ADR;type=WORK;type=pref:;;Saudi Arabia Riyadh ;;; السعودية الرياض
 item1.X-ABADR:sg
 item2.URL;type=pref:eesamy.com
 item2.X-ABLabel:_$!<HomePage>!$_
