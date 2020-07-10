@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:jaraho;essam;;;
-FN: essam jaraho 
-ORG:eesamy ;
-TITLE:project manager
+N:جراحو;عصام;;;
+FN: عصام جراحو 
+ORG:عصامي ;
+TITLE:مدير مشروع
 EMAIL;type=INTERNET;type=WORK;type=pref:eesamy@gmail.com
 TEL;type=WORK;type=VOICE:+966582620150
-item1.ADR;type=WORK;type=pref:;;Saudi Arabia Riyadh ;;;
+item1.ADR;type=WORK;type=pref:;;السعودية الرياض ;;;
 item1.X-ABADR:sg
 item2.URL;type=pref:eesamy.com
 item2.X-ABLabel:_$!<HomePage>!$_
